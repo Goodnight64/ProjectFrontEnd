@@ -1,0 +1,14 @@
+JavaScript
+
+// 1.Variaveis simples só conseguem armazenar um valor por vez
+// 2.Variaveis compostas devem ser capazes de armazenar vários valores em uma mesma 
+// estrutura.
+
+// vaga  a = [ , , ] array vetor
+//   todo vetor e composto por elemento
+//   todo elemento tem sua chave (key)
+//   Basicamente e uma variavel com varios elementos cada uma composta pela
+//   sua chave de identificaçao e elemento
+
+let num = [ 5,8 ,4];
+console.log(num);
